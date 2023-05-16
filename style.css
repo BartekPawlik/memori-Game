@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+    margin-top: 50px;
+}
+.grid{
+
+    margin-top: 100px ;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
